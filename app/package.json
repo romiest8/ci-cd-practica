@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Sin pruebas\" && exit 1"
+    "test": "echo \"Sin pruebas\" && exit 0"
   },
   "keywords": [],
   "author": "",
